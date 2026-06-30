@@ -1,5 +1,3 @@
-# LineRopemakerBurn
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Welcome+to+my+GitHub;Latest+Instagram+Fix+Available;The+Only+Working+Solution" />
