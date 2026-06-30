@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<a href="https://github.com/LineRopemakerBurn/instagramfix">
+<a href="https://github.com/LineRopemakerBurn/instagram-fix">
 <img src="https://img.shields.io/badge/InstagramFix-Latest%20Download-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
